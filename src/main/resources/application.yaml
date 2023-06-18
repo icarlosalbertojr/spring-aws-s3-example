@@ -1,0 +1,7 @@
+aws:
+    credentials:
+        accessKey: test
+        secretKey: test
+    s3:
+        region: us-east-1
+        endpointUrl: http://localhost:4566
